@@ -1,0 +1,10 @@
+package HomeWork1;
+
+
+abstract class FormesGeometriques {
+    
+    abstract double surface();
+    abstract double perimetre();
+    
+    
+}
